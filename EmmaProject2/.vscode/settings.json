@@ -31,6 +31,7 @@
         "**/*.FBX":true,
         "**/*.lxo":true,
         "**/*.LXO":true,
+        "**/*.ma":true,
         "**/*.MA":true,
         "**/*.obj":true,
         "**/*.OBJ":true,

@@ -113,8 +113,8 @@
 -define:TEXTCORE_FONT_ENGINE_1_5_OR_NEWER
 -define:CSHARP_7_OR_LATER
 -define:CSHARP_7_3_OR_NEWER
--r:"C:/Users/falle/EmmaProject2/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll"
--r:"C:/Users/falle/EmmaProject2/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"C:/Users/falle/Documents/PatitoGame/EmmaProject2/Library/PackageCache/com.unity.testtools.codecoverage@1.2.2/lib/ReportGenerator/ReportGeneratorMerged.dll"
+-r:"C:/Users/falle/Documents/PatitoGame/EmmaProject2/Library/PackageCache/com.unity.visualscripting@1.8.0/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Managed/UnityEngine/UnityEditor.CoreModule.dll"
 -r:"E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Managed/UnityEngine/UnityEditor.DeviceSimulatorModule.dll"
 -r:"E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Managed/UnityEngine/UnityEditor.DiagnosticsModule.dll"
@@ -345,6 +345,12 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Kawaii Slimes/Cameras/Scripts/AbstractTargetFollower.cs"
+"Assets/Kawaii Slimes/Cameras/Scripts/FreeLookCam.cs"
+"Assets/Kawaii Slimes/Cameras/Scripts/PivotBasedCameraRig.cs"
+"Assets/Kawaii Slimes/Scripts/AI/EnemyAi.cs"
+"Assets/Kawaii Slimes/Scripts/AI/Face.cs"
+"Assets/Kawaii Slimes/Scripts/GameManager.cs"
 "Assets/Quirky Series - Birds Bundle/_Scripts/Demo.cs"
 "Assets/Scripts/CameraController.cs"
 "Assets/Scripts/CameraFollow.cs"
