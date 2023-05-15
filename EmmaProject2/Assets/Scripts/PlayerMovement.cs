@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -28,7 +29,11 @@ public class PlayerMovement : MonoBehaviour
   // FixedUpdate is called once per frame (for physics updates, for everything else use Update)
   void FixedUpdate()
   {
-    // Stride
+    if (Input.GetKey("escape"))
+    {
+      SceneManager.LoadScene(0);
+    }
+
     if (!playerCanMove) return;
 
     if (Input.GetKey("w"))

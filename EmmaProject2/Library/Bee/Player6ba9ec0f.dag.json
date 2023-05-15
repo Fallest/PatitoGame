@@ -1,0 +1,1861 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/boot.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/boot.config"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/boot.config"
+      ],
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/globalgamemanagers",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/globalgamemanagers"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/globalgamemanagers"
+      ],
+      "DebugActionIndex": 2
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/globalgamemanagers.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/globalgamemanagers.assets"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/globalgamemanagers.assets"
+      ],
+      "DebugActionIndex": 3
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/level0",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/level0"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/level0"
+      ],
+      "DebugActionIndex": 4
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/level1",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/level1"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/level1"
+      ],
+      "DebugActionIndex": 5
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/level1.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/level1.resS"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/level1.resS"
+      ],
+      "DebugActionIndex": 6
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/resources.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/resources.assets"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/resources.assets"
+      ],
+      "DebugActionIndex": 7
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/resources.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/resources.assets.resS"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/resources.assets.resS"
+      ],
+      "DebugActionIndex": 8
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/RuntimeInitializeOnLoads.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/RuntimeInitializeOnLoads.json"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/RuntimeInitializeOnLoads.json"
+      ],
+      "DebugActionIndex": 9
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/ScriptingAssemblies.json",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/ScriptingAssemblies.json"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/ScriptingAssemblies.json"
+      ],
+      "DebugActionIndex": 10
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/sharedassets0.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets0.assets"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/sharedassets0.assets"
+      ],
+      "DebugActionIndex": 11
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/sharedassets0.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/sharedassets0.assets.resS"
+      ],
+      "DebugActionIndex": 12
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/sharedassets1.assets",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets1.assets"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/sharedassets1.assets"
+      ],
+      "DebugActionIndex": 13
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/sharedassets1.assets.resS",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/sharedassets1.assets.resS"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/sharedassets1.assets.resS"
+      ],
+      "DebugActionIndex": 14
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Resources/unity_builtin_extra",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/PlayerDataCache/Win64/Data/Resources/unity_builtin_extra"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Resources/unity_builtin_extra"
+      ],
+      "DebugActionIndex": 15
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/Assembly-CSharp.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Assembly-CSharp.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/Assembly-CSharp.dll"
+      ],
+      "DebugActionIndex": 16
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/Mono.Security.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Mono.Security.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/Mono.Security.dll"
+      ],
+      "DebugActionIndex": 17
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/mscorlib.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/mscorlib.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/mscorlib.dll"
+      ],
+      "DebugActionIndex": 18
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/System.Configuration.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Configuration.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/System.Configuration.dll"
+      ],
+      "DebugActionIndex": 19
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/System.Core.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Core.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/System.Core.dll"
+      ],
+      "DebugActionIndex": 20
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/System.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/System.dll"
+      ],
+      "DebugActionIndex": 21
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/System.Numerics.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Numerics.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/System.Numerics.dll"
+      ],
+      "DebugActionIndex": 22
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/System.Security.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Security.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/System.Security.dll"
+      ],
+      "DebugActionIndex": 23
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/System.Xml.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/System.Xml.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/System.Xml.dll"
+      ],
+      "DebugActionIndex": 24
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/Unity.TextMeshPro.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.TextMeshPro.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/Unity.TextMeshPro.dll"
+      ],
+      "DebugActionIndex": 25
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/Unity.Timeline.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.Timeline.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/Unity.Timeline.dll"
+      ],
+      "DebugActionIndex": 26
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll"
+      ],
+      "DebugActionIndex": 27
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/Unity.VisualScripting.Core.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.Core.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/Unity.VisualScripting.Core.dll"
+      ],
+      "DebugActionIndex": 28
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/Unity.VisualScripting.Flow.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.Flow.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/Unity.VisualScripting.Flow.dll"
+      ],
+      "DebugActionIndex": 29
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/Unity.VisualScripting.State.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/Unity.VisualScripting.State.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/Unity.VisualScripting.State.dll"
+      ],
+      "DebugActionIndex": 30
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AccessibilityModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.AccessibilityModule.dll"
+      ],
+      "DebugActionIndex": 31
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.AIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.AIModule.dll"
+      ],
+      "DebugActionIndex": 32
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.AndroidJNIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.AndroidJNIModule.dll"
+      ],
+      "DebugActionIndex": 33
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.AnimationModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.AnimationModule.dll"
+      ],
+      "DebugActionIndex": 34
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.ARModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ARModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.ARModule.dll"
+      ],
+      "DebugActionIndex": 35
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.AssetBundleModule.dll"
+      ],
+      "DebugActionIndex": 36
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.AudioModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.AudioModule.dll"
+      ],
+      "DebugActionIndex": 37
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.ClothModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ClothModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.ClothModule.dll"
+      ],
+      "DebugActionIndex": 38
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ClusterInputModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.ClusterInputModule.dll"
+      ],
+      "DebugActionIndex": 39
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ClusterRendererModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.ClusterRendererModule.dll"
+      ],
+      "DebugActionIndex": 40
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.CoreModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.CoreModule.dll"
+      ],
+      "DebugActionIndex": 41
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.CrashReportingModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.CrashReportingModule.dll"
+      ],
+      "DebugActionIndex": 42
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.DirectorModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.DirectorModule.dll"
+      ],
+      "DebugActionIndex": 43
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.dll"
+      ],
+      "DebugActionIndex": 44
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.DSPGraphModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.DSPGraphModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.DSPGraphModule.dll"
+      ],
+      "DebugActionIndex": 45
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.GameCenterModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.GameCenterModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.GameCenterModule.dll"
+      ],
+      "DebugActionIndex": 46
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.GIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.GIModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.GIModule.dll"
+      ],
+      "DebugActionIndex": 47
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.GridModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.GridModule.dll"
+      ],
+      "DebugActionIndex": 48
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.HotReloadModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.HotReloadModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.HotReloadModule.dll"
+      ],
+      "DebugActionIndex": 49
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.ImageConversionModule.dll"
+      ],
+      "DebugActionIndex": 50
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.IMGUIModule.dll"
+      ],
+      "DebugActionIndex": 51
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.InputLegacyModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.InputLegacyModule.dll"
+      ],
+      "DebugActionIndex": 52
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.InputModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.InputModule.dll"
+      ],
+      "DebugActionIndex": 53
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.JSONSerializeModule.dll"
+      ],
+      "DebugActionIndex": 54
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.LocalizationModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.LocalizationModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.LocalizationModule.dll"
+      ],
+      "DebugActionIndex": 55
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.NVIDIAModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.NVIDIAModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.NVIDIAModule.dll"
+      ],
+      "DebugActionIndex": 56
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.ParticleSystemModule.dll"
+      ],
+      "DebugActionIndex": 57
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.PerformanceReportingModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.PerformanceReportingModule.dll"
+      ],
+      "DebugActionIndex": 58
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.Physics2DModule.dll"
+      ],
+      "DebugActionIndex": 59
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.PhysicsModule.dll"
+      ],
+      "DebugActionIndex": 60
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.ProfilerModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ProfilerModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.ProfilerModule.dll"
+      ],
+      "DebugActionIndex": 61
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll"
+      ],
+      "DebugActionIndex": 62
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.ScreenCaptureModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.ScreenCaptureModule.dll"
+      ],
+      "DebugActionIndex": 63
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.SharedInternalsModule.dll"
+      ],
+      "DebugActionIndex": 64
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SpriteMaskModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.SpriteMaskModule.dll"
+      ],
+      "DebugActionIndex": 65
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.SpriteShapeModule.dll"
+      ],
+      "DebugActionIndex": 66
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.StreamingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.StreamingModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.StreamingModule.dll"
+      ],
+      "DebugActionIndex": 67
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.SubstanceModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SubstanceModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.SubstanceModule.dll"
+      ],
+      "DebugActionIndex": 68
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.SubsystemsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.SubsystemsModule.dll"
+      ],
+      "DebugActionIndex": 69
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.TerrainModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.TerrainModule.dll"
+      ],
+      "DebugActionIndex": 70
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TerrainPhysicsModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.TerrainPhysicsModule.dll"
+      ],
+      "DebugActionIndex": 71
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TextCoreFontEngineModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll"
+      ],
+      "DebugActionIndex": 72
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TextCoreTextEngineModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll"
+      ],
+      "DebugActionIndex": 73
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.TextRenderingModule.dll"
+      ],
+      "DebugActionIndex": 74
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.TilemapModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.TilemapModule.dll"
+      ],
+      "DebugActionIndex": 75
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.TLSModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.TLSModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.TLSModule.dll"
+      ],
+      "DebugActionIndex": 76
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UI.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UI.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UI.dll"
+      ],
+      "DebugActionIndex": 77
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UIElementsModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UIElementsModule.dll"
+      ],
+      "DebugActionIndex": 78
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UIElementsNativeModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UIElementsNativeModule.dll"
+      ],
+      "DebugActionIndex": 79
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UIModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UIModule.dll"
+      ],
+      "DebugActionIndex": 80
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UmbraModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UmbraModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UmbraModule.dll"
+      ],
+      "DebugActionIndex": 81
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UNETModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UNETModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UNETModule.dll"
+      ],
+      "DebugActionIndex": 82
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll"
+      ],
+      "DebugActionIndex": 83
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UnityAnalyticsModule.dll"
+      ],
+      "DebugActionIndex": 84
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityConnectModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UnityConnectModule.dll"
+      ],
+      "DebugActionIndex": 85
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UnityCurlModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityCurlModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UnityCurlModule.dll"
+      ],
+      "DebugActionIndex": 86
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityTestProtocolModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UnityTestProtocolModule.dll"
+      ],
+      "DebugActionIndex": 87
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll"
+      ],
+      "DebugActionIndex": 88
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll"
+      ],
+      "DebugActionIndex": 89
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UnityWebRequestModule.dll"
+      ],
+      "DebugActionIndex": 90
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll"
+      ],
+      "DebugActionIndex": 91
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll"
+      ],
+      "DebugActionIndex": 92
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.VehiclesModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VehiclesModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.VehiclesModule.dll"
+      ],
+      "DebugActionIndex": 93
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.VFXModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.VFXModule.dll"
+      ],
+      "DebugActionIndex": 94
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.VideoModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.VideoModule.dll"
+      ],
+      "DebugActionIndex": 95
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.VirtualTexturingModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VirtualTexturingModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.VirtualTexturingModule.dll"
+      ],
+      "DebugActionIndex": 96
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.VRModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.VRModule.dll"
+      ],
+      "DebugActionIndex": 97
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.WindModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.WindModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.WindModule.dll"
+      ],
+      "DebugActionIndex": 98
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Managed/UnityEngine.XRModule.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Managed/UnityEngine.XRModule.dll"
+      ],
+      "DebugActionIndex": 99
+    },
+    {
+      "Annotation": "WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info",
+      "ActionType": "WriteTextFile",
+      "WriteTextFilePayload": "DefaultCompany\nPajaritoTown",
+      "Inputs": [],
+      "Outputs": [
+        "Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info"
+      ],
+      "AllowUnwrittenOutputFiles": true,
+      "DebugActionIndex": 100
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/app.info",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/app.info"
+      ],
+      "ToBuildDependencies": [
+        100
+      ],
+      "DebugActionIndex": 101
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown_Data/Resources/unity default resources",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources/unity default resources"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown_Data/Resources/unity default resources"
+      ],
+      "DebugActionIndex": 102
+    },
+    {
+      "Annotation": "CopyFiles dist/PajaritoTown.exe",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "Temp/StagingArea/WindowsPlayer.exe"
+      ],
+      "Outputs": [
+        "dist/PajaritoTown.exe"
+      ],
+      "DebugActionIndex": 103
+    },
+    {
+      "Annotation": "CopyFiles dist/UnityCrashHandler64.exe",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/UnityCrashHandler64.exe"
+      ],
+      "Outputs": [
+        "dist/UnityCrashHandler64.exe"
+      ],
+      "DebugActionIndex": 104
+    },
+    {
+      "Annotation": "CopyFiles dist/UnityPlayer.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/UnityPlayer.dll"
+      ],
+      "Outputs": [
+        "dist/UnityPlayer.dll"
+      ],
+      "DebugActionIndex": 105
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll"
+      ],
+      "DebugActionIndex": 106
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll"
+      ],
+      "DebugActionIndex": 107
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/browscap.ini",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/browscap.ini"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/browscap.ini"
+      ],
+      "DebugActionIndex": 108
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/config"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/config"
+      ],
+      "DebugActionIndex": 109
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 110
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/machine.config"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/2.0/machine.config"
+      ],
+      "DebugActionIndex": 111
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/settings.map"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/2.0/settings.map"
+      ],
+      "DebugActionIndex": 112
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/2.0/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/web.config"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/2.0/web.config"
+      ],
+      "DebugActionIndex": 113
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 114
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 115
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/machine.config"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/4.0/machine.config"
+      ],
+      "DebugActionIndex": 116
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/settings.map"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/4.0/settings.map"
+      ],
+      "DebugActionIndex": 117
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/4.0/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/web.config"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/4.0/web.config"
+      ],
+      "DebugActionIndex": 118
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 119
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx"
+      ],
+      "DebugActionIndex": 120
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/machine.config"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/4.5/machine.config"
+      ],
+      "DebugActionIndex": 121
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/settings.map"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/4.5/settings.map"
+      ],
+      "DebugActionIndex": 122
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/4.5/web.config",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/web.config"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/4.5/web.config"
+      ],
+      "DebugActionIndex": 123
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser"
+      ],
+      "DebugActionIndex": 124
+    },
+    {
+      "Annotation": "CopyFiles dist/MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "ActionType": "CopyFiles",
+      "Inputs": [
+        "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/MonoBleedingEdge/etc/mono/mconfig/config.xml"
+      ],
+      "Outputs": [
+        "dist/MonoBleedingEdge/etc/mono/mconfig/config.xml"
+      ],
+      "DebugActionIndex": 125
+    },
+    {
+      "Annotation": "Player",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125
+      ],
+      "AllowUnexpectedOutput": true,
+      "DebugActionIndex": 126
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/WinPlayerBuildProgram.Data.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/WinPlayerBuildProgram.exe"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.BuildTools.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.Core.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.CSharpSupport.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.DotNet.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.NativeProgramSupport.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.Stevedore.Program.exe"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.TinyProfiler2.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.GNU.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.LLVM.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.VisualStudio.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.Xcode.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.Tools.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.TundraBackend.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Bee.VisualStudioSolution.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.Data.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/ClassRegistrationGenerator.exe"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Newtonsoft.Json.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/NiceIO.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.Data.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.Data.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.exe"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/SharpYaml.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.Api.Attributes.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Mdb.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Pdb.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Rocks.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Api.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.BuildLogic.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.Linker.Api.dll"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline/Unity.Options.dll"
+    },
+    {
+      "File": "Library/Bee/Player6ba9ec0f-inputdata.json"
+    }
+  ],
+  "StatSignatures": [
+    {
+      "File": "dist/GameAssembly.dll"
+    },
+    {
+      "File": "dist/PajaritoTown.sln"
+    },
+    {
+      "File": "dist/UnityCommon.props"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono"
+    },
+    {
+      "File": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources"
+    },
+    {
+      "File": "Library/Bee/Player6ba9ec0f-inputdata.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "Assets/StreamingAssets",
+      "Recurse": 1
+    },
+    {
+      "Path": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport"
+    },
+    {
+      "Path": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono",
+      "Recurse": 1
+    },
+    {
+      "Path": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono/Data/Resources",
+      "Recurse": 1
+    },
+    {
+      "Path": "E:/Programas/Unity/Editor/2021.3.18f1/Editor/Data/Tools/BuildPipeline"
+    },
+    {
+      "Path": "Library/PlayerDataCache/Win64/Data",
+      "Recurse": 1
+    },
+    {
+      "Path": "Temp/StagingArea/Data/Managed"
+    },
+    {
+      "Path": "Temp/StagingArea/Data/Plugins"
+    },
+    {
+      "Path": "Temp/StagingArea/Data/UnitySubsystems",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".winmd",
+    ".pdb",
+    ".cpp",
+    ".cc",
+    ".c",
+    ".hpp",
+    ".h",
+    ".json",
+    ".xml",
+    ".txt",
+    ".config"
+  ],
+  "StructuredLogFileName": "Library/Bee/tundra.log.json",
+  "StateFileName": "Library/Bee/TundraBuildState.state",
+  "StateFileNameTmp": "Library/Bee/TundraBuildState.state.tmp",
+  "StateFileNameMapped": "Library/Bee/TundraBuildState.state.map",
+  "ScanCacheFileName": "Library/Bee/tundra.scancache",
+  "ScanCacheFileNameTmp": "Library/Bee/tundra.scancache.tmp",
+  "DigestCacheFileName": "Library/Bee/tundra.digestcache",
+  "DigestCacheFileNameTmp": "Library/Bee/tundra.digestcache.tmp",
+  "EmitDataForBeeWhy": 0,
+        "NamedNodes": {
+          "all_tundra_nodes": 0,
+          "Player": 126
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "Library/Bee/Player6ba9ec0f.dag.json",
+  "RelativePathToRoot": "../.."
+}
